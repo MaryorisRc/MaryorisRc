@@ -1,6 +1,7 @@
 <table border="0" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
-    <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="https://user-images.githubusercontent.com/65135568/219900687-67624434-64bb-4317-ba00-b1a7bf98a494.png" alt="Foto de perfil" width="100%"/></td>
+
+    <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="" alt="Foto de perfil" width="100%"/></td>
     <td width="70%" style="text-align: justify;">- 👋 - 📫Hi, I'm Maryoris Rodriguez, a 23-year-old girl studying Software Analysis and Development interested in strengthening my skills in different programming languages ​​apart from the ones I'm currently learning .
  I seek to collaborate and facilitate with software creations and web page design
 You can know more about me in my social networks thanks!</td>
